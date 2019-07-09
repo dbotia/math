@@ -1,0 +1,23 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "Programa de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbotia/math.git"
+  },
+  "keywords": [
+    "Math",
+    "Operations"
+  ],
+  "author": "Diego Botia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbotia/math/issues"
+  },
+  "homepage": "https://github.com/dbotia/math#readme"
+}
