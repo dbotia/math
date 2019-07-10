@@ -12,6 +12,13 @@ __Coverage__: [![Coverage](https://sonarcloud.io/api/badges/measure?key=math&met
 
 __Coveralls__: [![Coverage Status](https://coveralls.io/repos/github/dbotia/math/badge.svg?branch=master)](https://coveralls.io/github/dbotia/math?branch=master)
 
+__SNYK__:     
+[![Known Vulnerabilities](https://snyk.io//test/github/dbotia/math/badge.svg?targetFile=package.json)](https://snyk.io//test/github/dbotia/math?targetFile=package.json)
+
+  
+
+
+
 Implementation of a Simple Calculator with the next operations:
 
 * Add
