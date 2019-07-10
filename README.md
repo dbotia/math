@@ -8,6 +8,8 @@ __Sonarqube__: [![Quality Gate](https://sonarcloud.io/api/badges/gate?key=math)]
 [![Code Smells](https://sonarcloud.io/api/badges/measure?key=math&metric=code_smells)](https://sonarcloud.io/dashboard/index/math)
 [![Duplicated Lines Density](https://sonarcloud.io/api/badges/measure?key=math&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard/index/math)
 
+[![Coverage](https://sonarcloud.io/api/badges/measure?key=math&metric=coverage)](https://sonarcloud.io/dashboard/index/math)
+
 Implementation of a Simple Calculator with the next operations:
 
 * Add
