@@ -8,7 +8,9 @@ __Sonarqube__: [![Quality Gate](https://sonarcloud.io/api/badges/gate?key=math)]
 [![Code Smells](https://sonarcloud.io/api/badges/measure?key=math&metric=code_smells)](https://sonarcloud.io/dashboard/index/math)
 [![Duplicated Lines Density](https://sonarcloud.io/api/badges/measure?key=math&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard/index/math)
 
-[![Coverage](https://sonarcloud.io/api/badges/measure?key=math&metric=coverage)](https://sonarcloud.io/dashboard/index/math)
+__Coverage__: [![Coverage](https://sonarcloud.io/api/badges/measure?key=math&metric=coverage)](https://sonarcloud.io/dashboard/index/math)
+
+__Coveralls__: [![Coverage Status](https://coveralls.io/repos/github/dbotia/math/badge.svg?branch=master)](https://coveralls.io/github/dbotia/math?branch=master)
 
 Implementation of a Simple Calculator with the next operations:
 
